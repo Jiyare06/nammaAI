@@ -2,3 +2,4 @@ node_modules/
 .next/
 .env*
 out/
+//Add OSMnx incident-aware routing, Docker setup, full i18n on route page
