@@ -6,3 +6,4 @@ venv/
 *.pyc
 
 .vercel
+//Add safe route detouring feature
