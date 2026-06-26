@@ -7,6 +7,7 @@ export const STRINGS = {
 
   // Public nav
   nav_home: "Home",
+  
   nav_heatmap: "Traffic Hotspots",
   nav_report: "File a report",
   nav_track: "Track",
