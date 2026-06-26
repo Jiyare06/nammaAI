@@ -33,6 +33,7 @@ export default function AuthorityShell({ children }: { children: React.ReactNode
     authMe()
       .then(setUser)
       .catch(() => {
+        
         localStorage.removeItem("namma_token")
         localStorage.removeItem("namma_refresh")
         router.replace("/authority/login")
